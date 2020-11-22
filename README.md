@@ -4,3 +4,16 @@ Implemented a DCGAN inspired by [PyImagesearch blog post](https://www.pyimagesea
 using Tensorflow & Keras on Fashion MNIST dataset. The model at the end of training was able to create amazing results out of mere random noise. Some output examples are given 
 the `output` directory. The `output` directory consists of 40 images out of which, 20 are the ones generated after the training of the 1st epoc and 20 that were outputted at 
 the end of training.
+
+## Results
+<div>
+  The following sequence of images show how the network evolved and learned to create proper MNIST images out of total randomness <br>
+  
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0001_step_00000.png" width='300' height='300'>
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0001_step_00075.png" width='300' height='300'>
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0001_step_00175.png" width='300' height='300'>
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0001_step_00225.png" width='300' height='300'>
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0001_step_00425.png" width='300' height='300'>
+  <img src="https://github.com/AryanSethi/DCGAN/blob/master/example_outputs/epoch_0050_step_00500.png" width='300' height='300'>
+</div>
+  
